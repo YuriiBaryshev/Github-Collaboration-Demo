@@ -7,3 +7,5 @@ Dmytro Abramiuk
 Yevheniy Kesarchuk
 
 Ivan Zaremba
+
+Viktor Mudrytskyi
