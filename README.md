@@ -3,7 +3,7 @@
 The repository is created to teach students GitHub service usage
 
 # Contributors
-List of contributors can be found [here](CONTRIBUTORS.md).
+List of contributors can be found [here](CONTRIBUTORS.md)
 
 # How to contribute
 1. Fork this repository
